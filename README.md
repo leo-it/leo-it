@@ -1,7 +1,10 @@
-- 👋 Hola, mi nombre es Leonardo, vivo en argentina CABA, soy desarrollador FullStack JavaScript y actualmente estoy buscando trabajo.
+- 👋 Hola, mi nombre es Leonardo, vivo en argentina CABA, soy desarrollador FrontEnd.
 
-Programo en React, NodeJS, estoy aprendiendo Java, y TypeScript.
 Actualmente estoy trabajando como desarrollador FrontEnd en Steplix.
+
+Programo en React, Nextjs, y TypeScript.
+Tambien programo en NodeJS y aunque lo tengo un poco abandonado, a futuro me gustaria retomarlo.
+
 
 Participe de la aceleracion en Alkemy FullStack JS, realice el curso de FullStack JS en Comunidad IT y la escuelita 
 de Fizzmod y educacion it en JavaScript avanzado.
