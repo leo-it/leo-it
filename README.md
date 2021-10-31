@@ -1,16 +1,15 @@
 - 👋 Hola, mi nombre es Leonardo, vivo en argentina CABA, soy desarrollador FullStack JavaScript y actualmente estoy buscando trabajo.
 
 Programo en React, NodeJS, estoy aprendiendo Java, y TypeScript.
-Actualmente estoy participando de la aceleracion en Alkemy FullStack JS, pero tambien realice el curso de FullStack JS en Comunidad IT y la escuelita 
+Actualmente estoy trabajando como desarrollador FrontEnd en Steplix.
+
+Participe de la aceleracion en Alkemy FullStack JS, realice el curso de FullStack JS en Comunidad IT y la escuelita 
 de Fizzmod y educacion it en JavaScript avanzado.
 
-Tengo practicas de Scrum, Bitbucket, Trello, Jira, Discord y Slack para trabajo en equipo.
+Tengo practica con Scrum, Bitbucket, Gitlab, Trello, Jira, Discord y Slack para trabajar en equipo.
 
-Empece a estudiar programacion a finales del 2019 por mi cuenta, poco a poco me fui enganchando mas y en el 2020 empece la tecnicatura en programacion en la UNSAM, ahora estoyhaciendo el cambio de universidad a ort, porque esta tiene convenio con la Universidad de Palermo para seguir con la licenciatura en sistemas.
+Empece a estudiar programacion a finales del 2019 por mi cuenta, poco a poco me fui enganchando mas y en el 2020 empece la tecnicatura en programacion en la UNSAM, ahora estoy estudiando en la Tecnicatura de analista en sistemas en ORT.
+
+Se que no tengo mucha experiencia aun, pero estoy decidido a ser un buen desarrollador y voy a hacer todo lo que este a mi alcance para conseguirlo.
 
 Soy deportista desde hace mas de 12 años, es una de las cosas que mas me gusta hacer, ya sea en equipo o individualmente, disfruto moverme y aprender cosas nuevas.
-
-
-
-
-
