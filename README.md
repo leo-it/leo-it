@@ -11,7 +11,7 @@ de Fizzmod y educacion it en JavaScript avanzado.
 
 Tengo practica con Scrum, Bitbucket, Gitlab, Trello, Jira, Discord y Slack para trabajar en equipo.
 
-Empece a estudiar programacion a finales del 2019 por mi cuenta, poco a poco me fui enganchando mas y en el 2020 empece la tecnicatura en programacion en la UNSAM, ahora estoy estudiando en la Tecnicatura de analista en sistemas en ORT.
+Empece a estudiar programacion a finales del 2019 por mi cuenta, poco a poco me fui enganchando mas y en el 2020 empece la tecnicatura en programacion en la UNSAM, en el 2021 empece en la Tecnicatura de analista en sistemas en ORT.
 
 Se que no tengo mucha experiencia aun, pero estoy decidido a ser un buen desarrollador y voy a hacer todo lo que este a mi alcance para conseguirlo.
 
