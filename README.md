@@ -1,4 +1,1 @@
-👋 Hola, mi nombre es Leonardo, vivo en argentina CABA, soy desarrollador FrontEnd.
-Actualmente trabajo en accenture con nextjs/ts y nest.
-
-Tengo practica con Scrum, Github, Gitlab, Trello, Jira, Discord y Slack para trabajar en equipo.
+Desarrollador de Front-end con mas de 4 años de experiencia, trabajo para el Banco del Sol como desarrollador frontend con NextJS, Nest.js(BFF), TypeScript, Unit Test.
